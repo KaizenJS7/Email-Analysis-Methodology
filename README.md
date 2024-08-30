@@ -1,4 +1,4 @@
-<h1>Phishing Analysis Methodology</h1>
+<h1>Email Analysis Methodology</h1>
 
 <h2>Initial Triage</h2>
 
